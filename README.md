@@ -49,4 +49,6 @@ Results use one random player holdout, not a future-period test. Scores are unca
 The audit found 124 exact duplicate purchase rows; these were retained because separate transactions could not be distinguished from duplicate logging.
 
 Reference
+------------------------------
+
 Li et al. (2021). A Difficulty-Aware Framework for Churn Prediction and Intervention in Games. KDD '21.
