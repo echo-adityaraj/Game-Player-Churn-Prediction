@@ -1,0 +1,2 @@
+contact_fraction,players_selected,actual_churners_selected,precision_at_budget,recall_at_budget,lift_over_random
+0.2,85,58,0.6823529411764706,0.8923076923076924,4.461538461538462
